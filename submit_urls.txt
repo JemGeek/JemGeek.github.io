@@ -1,0 +1,11 @@
+https://blog.junmoyu.com/posts/docker-install/
+https://blog.junmoyu.com/posts/spring-boot-file-upload-download/
+https://blog.junmoyu.com/posts/spring-cloud-nacos-discovery/
+https://blog.junmoyu.com/posts/spring-cloud-nacos-install/
+https://blog.junmoyu.com/posts/spring-cloud-nacos-config/
+https://blog.junmoyu.com/posts/spring-boot-singleton-ioc/
+https://blog.junmoyu.com/posts/spring-boot-log4j2-config/
+https://blog.junmoyu.com/posts/java-equals-fully-resolved/
+https://blog.junmoyu.com/posts/java-design-patterns/
+https://blog.junmoyu.com/posts/java-design-patterns-template-method/
+https://blog.junmoyu.com/posts/java-design-patterns-singleton/
